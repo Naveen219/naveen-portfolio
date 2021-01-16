@@ -1,10 +1,9 @@
-# naveen-portfolio
-My Portfolio
+# Naveen-Portfolio
 freeCodeCamp Personal Portfolio Project.
 
 The page is fully responsive.
 
-Used tools like CSS Flex box for the responsvive design.
+Used tools like CSS Flex box for the responsive design.
 
 
 You can find the website at the following URL.
